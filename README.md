@@ -26,6 +26,7 @@ Changes made:
 # Screenshot of modified website
 
 Modified website screenshot file name: ./01-html-css-git-homework.png
+Link to modified website screenshot: https://github.com/JayMoses01/hw-01-code-refractor/blob/main/01-html-css-git-homework.png
 
 
 # URL of the deployed application
